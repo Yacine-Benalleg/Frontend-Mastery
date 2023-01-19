@@ -1195,8 +1195,8 @@ video {
   --tw-bg-opacity: 0.5;
 }
 
-.bg-\[url\(\'\/pictures\/Noise\.png\'\)\] {
-  background-image: url('/pictures/Noise.png');
+.bg-\[url\(\'pictures\/Noise\.png\'\)\] {
+  background-image: url('pictures/Noise.png');
 }
 
 .bg-gradient-to-br {
@@ -1217,6 +1217,46 @@ video {
 
 .bg-\[url\(\'\/pictures\/last-background\.png\'\)\] {
   background-image: url('/pictures/last-background.png');
+}
+
+.bg-\[url\(\'pictures\/background1\.png\'\)\] {
+  background-image: url('pictures/background1.png');
+}
+
+.bg-\[url\(\'pictures\/background2\.png\'\)\] {
+  background-image: url('pictures/background2.png');
+}
+
+.bg-\[url\(\'pictures\/background3\.png\'\)\] {
+  background-image: url('pictures/background3.png');
+}
+
+.bg-\[url\(\'pictures\/last-background\.png\'\)\] {
+  background-image: url('pictures/last-background.png');
+}
+
+.bg-\[url\(\'\.\/pictures\/background1\.png\'\)\] {
+  background-image: url('./pictures/background1.png');
+}
+
+.bg-\[url\(\'\.\.\/pictures\/background1\.png\'\)\] {
+  background-image: url('../pictures/background1.png');
+}
+
+.bg-\[url\(\'\.\.\/pictures\/Noise\.png\'\)\] {
+  background-image: url('../pictures/Noise.png');
+}
+
+.bg-\[url\(\'\.\.\/pictures\/background2\.png\'\)\] {
+  background-image: url('../pictures/background2.png');
+}
+
+.bg-\[url\(\'\.\.\/pictures\/background3\.png\'\)\] {
+  background-image: url('../pictures/background3.png');
+}
+
+.bg-\[url\(\'\.\.\/pictures\/last-background\.png\'\)\] {
+  background-image: url('../pictures/last-background.png');
 }
 
 .from-primary {
